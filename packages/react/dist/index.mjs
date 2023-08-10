@@ -1,3 +1,4 @@
+/* eslint-disable */
 // ../tokens/dist/index.mjs
 var colors = {
   white: "#FFF",
